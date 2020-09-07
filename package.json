@@ -1,0 +1,20 @@
+{
+  "name": "@hirokihello/pump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hirokihello/pump.git"
+  },
+  "keywords": [],
+  "author": "hirokihello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirokihello/pump/issues"
+  },
+  "homepage": "https://github.com/hirokihello/pump#readme"
+}
